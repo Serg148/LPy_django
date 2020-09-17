@@ -1,0 +1,2 @@
+# LPy_django
+django
